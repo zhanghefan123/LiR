@@ -1,0 +1,6 @@
+[submodule "lir_kernel"]
+	path = lir_kernel
+	url = https://github.com/zhanghefan123/LiR_Kernel.git
+[submodule "lir_emulator"]
+	path = lir_emulator
+	url = https://github.com/zhanghefan123/LiR_Emulator.git
